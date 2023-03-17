@@ -1,0 +1,61 @@
+*{
+    font-family:sans-serif
+}
+form{
+    width: 300px;
+    border:solid 1px white;
+    height: 500px;
+    margin: auto;
+    border-radius:8px;
+    box-shadow: 12px 13px 49px -1px rgba(56,49,49,0.59);
+}
+input{
+    width: 250px;
+    margin: auto;
+    display: block;
+    height: 30px;
+}
+label{
+    display: block;
+    margin: auto;
+    width:85%;
+}
+h2{
+    width: 85%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+p{
+    width: 85%;
+    margin: auto;
+}
+input[type=checkbox]{
+    height: 15px;
+    width:15px;
+    display: inline-block;
+   
+}
+#btn{
+    margin-top:100px;
+    background-color: #4CAF50;
+    color: white;
+    border:none;
+    border-radius: 5px;
+}
+#mia{
+        display:inline-block ;
+        width:51%;
+        margin-left: 30px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        
+}
+#smt{
+    margin-top:30px;
+}
+#btn:hover{
+    background-color: red;
+    color:white;
+}
